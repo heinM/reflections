@@ -1,3 +1,5 @@
 When whould you want to create a remote repository rather than keeping all your work local?
 
 why might you want to always pull changes manually rather than keep the repository up to date with your remote repository?
+
+What os the benifit of having a copy of the last known state of the remote stored locally?
